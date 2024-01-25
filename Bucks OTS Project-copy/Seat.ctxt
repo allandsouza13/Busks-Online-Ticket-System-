@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Seat
+comment1.params=seatNumber
+comment1.target=Seat(int)
+comment2.params=
+comment2.target=int\ getSeatNumber()
+comment3.params=
+comment3.target=boolean\ isReserved()
+comment4.params=
+comment4.target=void\ releaseSeat()
+numComments=5
